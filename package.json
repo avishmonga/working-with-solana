@@ -1,0 +1,23 @@
+{
+  "name": "working-with-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avishmonga/working-with-solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avishmonga/working-with-solana/issues"
+  },
+  "homepage": "https://github.com/avishmonga/working-with-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.74.0"
+  }
+}
